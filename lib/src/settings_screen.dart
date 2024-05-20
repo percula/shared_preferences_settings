@@ -405,7 +405,7 @@ class __SettingsTileState extends State<_SettingsTile>
           trailing: widget.widget,
           enabled: enabled,
         ),
-        _SettingsTileDivider(),
+        // _SettingsTileDivider(),
       ],
     );
   }
